@@ -4,6 +4,14 @@ body
         text-align: left;
         font-family: "courier";
 }
+#cabecera
+
+{
+        background: #33A;
+        color: white;
+        margin: 0;
+        padding; 0.5em;
+}
 
 #container
 
@@ -20,3 +28,4 @@ body
 {  
         font-size: 20px;
 }
+
